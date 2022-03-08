@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kirill
 
-My last project is gql builder, package for extremely fast(build form in a minute) app prototyping for [React](https://reactjs.org/), [Graphql](https://graphql.org), [Hasura](https://hasura.io)
+My last open-source project is gql builder, package for extremely fast(build form in a minute) app prototyping for [React](https://reactjs.org/), [Graphql](https://graphql.org), [Hasura](https://hasura.io)
 Provides high level abstraction on top of [react-hook-form](https://react-hook-form.com), [apollo](https://www.apollographql.com)
 
 - [lazy-gql](https://github.com/KirillSuhodolov/lazy-gql)
