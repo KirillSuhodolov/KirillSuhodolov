@@ -14,6 +14,5 @@ Other open-source projects
 - [operationable](https://github.com/KirillSuhodolov/operationable) - ruby gem for complex business logic organization
 - [opentok-calls](https://github.com/KirillSuhodolov/opentok-calls) - high level npm package for embedding video calls in to your app with [tokbox/vonage](https://tokbox.com/developer/sdks/js/)
 - [ember-cli-opentok-calls](https://github.com/KirillSuhodolov/ember-cli-opentok-calls) [ember.js](https://emberjs.com) addon with opentok-calls package
-
 - [wrap in array](https://github.com/KirillSuhodolov/wrap-in-array) - small utility to wrap everything in to array
 - [booleanize values](https://github.com/KirillSuhodolov/booleanize-values) - small utility to boolenize hash values if the could be boolean
