@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Kirill
 
 I am software enginer/architect/manager
+
 I like to building products without bureaucracy
 
 [ishtar-gate](https://github.com/KirillSuhodolov/ishtar-gate) - is async event manager for distributed processes with visual builder
