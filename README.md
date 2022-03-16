@@ -1,5 +1,10 @@
 - 👋 Hi, I’m Kirill
 
+I am software enginer/architect/manager
+I like to building products without bureaucracy
+
+[ishtar-gate](https://github.com/KirillSuhodolov/ishtar-gate) - is async event manager for distributed processes with visual builder
+
 My last open-source project is gql builder, package for extremely fast(build form in a minute) app prototyping for [React](https://reactjs.org/), [Graphql](https://graphql.org), [Hasura](https://hasura.io)
 
 Provides high level abstraction on top of [react-hook-form](https://react-hook-form.com), [apollo](https://www.apollographql.com)
